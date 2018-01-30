@@ -1,0 +1,28 @@
+{
+  "name": "nodejs-starting",
+  "version": "1.0.0",
+  "description": "node.js project for starting",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test",
+    "start": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zikelir/node-js-starting.git"
+  },
+  "keywords": [
+    "javascript",
+    "node.js",
+    "webpack"
+  ],
+  "author": "zikelir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zikelir/node-js-starting/issues"
+  },
+  "homepage": "https://github.com/zikelir/node-js-starting#readme",
+  "devDependencies": {
+    "webpack": "^3.10.0"
+  }
+}
